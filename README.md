@@ -1,2 +1,2 @@
 # campusiot-certs
-TLS Certificates of the CampusIoT services
+This project contains the TLS Certificates of the CampusIoT services
